@@ -1,0 +1,221 @@
+[
+  {
+    "id": 1,
+    "name": "Mindful Breathing",
+    "image": "/images/Mindful breathing.jpg",
+    "description": "Focus on your breath and calm the mind through controlled breathing patterns.",
+    "benefits": ["Reduce anxiety", "Improve concentration", "Lower blood pressure", "Enhance emotional regulation"],
+    "posture": "Sit upright comfortably with feet flat on floor, hands resting on knees or in lap.",
+    "duration": "5-20 minutes",
+    "difficulty": "Beginner",
+    "steps": [
+      "Find a quiet space and sit comfortably with eyes closed.",
+      "Place one hand on chest, one on belly to feel breath movement.",
+      "Inhale slowly through the nose for 4 counts.",
+      "Hold your breath gently for 4 counts.",
+      "Exhale slowly through mouth for 6 counts.",
+      "Notice the natural pause between breaths.",
+      "Repeat this cycle, focusing solely on the breath.",
+      "When mind wanders, gently return attention to breathing."
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Body Scan Meditation",
+    "image": "/images/bodyscanmeditation.jpg",
+    "description": "Systematically focus on different parts of your body to release tension and increase awareness.",
+    "benefits": ["Reduce physical tension", "Improve sleep quality", "Increase body awareness", "Relieve chronic pain"],
+    "posture": "Lie down flat on your back with arms at sides, palms facing up, legs slightly apart.",
+    "duration": "15-45 minutes",
+    "difficulty": "Beginner",
+    "steps": [
+      "Lie down comfortably and close your eyes.",
+      "Take three deep breaths to settle in.",
+      "Start at the top of your head, noticing any sensations.",
+      "Slowly move attention to forehead, eyes, jaw, and neck.",
+      "Progress through shoulders, arms, and hands.",
+      "Focus on chest, heart, and breathing.",
+      "Move to stomach, back, and lower torso.",
+      "Continue with hips, thighs, knees, and calves.",
+      "End with feet and toes.",
+      "Notice your whole body as one complete unit."
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Loving-Kindness Meditation",
+    "image": "https://source.unsplash.com/800x600/?heart,love",
+    "description": "Cultivate compassion and goodwill toward yourself and others through directed well-wishes.",
+    "benefits": ["Increase empathy", "Reduce anger", "Improve relationships", "Boost self-compassion"],
+    "posture": "Sit comfortably with spine straight, hands in lap, gentle smile on face.",
+    "duration": "10-30 minutes",
+    "difficulty": "Intermediate",
+    "steps": [
+      "Begin by directing loving-kindness toward yourself.",
+      "Repeat: 'May I be happy, may I be healthy, may I be at peace.'",
+      "Feel the intention behind these words.",
+      "Extend these wishes to a loved one.",
+      "Visualize them and repeat the phrases for them.",
+      "Include a neutral person (acquaintance or stranger).",
+      "Challenge yourself with someone you have difficulties with.",
+      "Expand to include all beings in your community.",
+      "End by sending loving-kindness to all living beings everywhere."
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Walking Meditation",
+    "image": "https://source.unsplash.com/800x600/?walking,nature",
+    "description": "Practice mindfulness while walking slowly and deliberately, connecting with each step.",
+    "benefits": ["Combine movement with mindfulness", "Reduce restlessness", "Connect with nature", "Improve balance"],
+    "posture": "Stand tall with arms relaxed at sides or hands clasped behind back.",
+    "duration": "10-30 minutes",
+    "difficulty": "Beginner",
+    "steps": [
+      "Choose a quiet path 10-20 steps long.",
+      "Stand at one end and take a moment to center yourself.",
+      "Begin walking slower than normal pace.",
+      "Focus on the sensation of lifting each foot.",
+      "Notice the movement of your leg through air.",
+      "Feel the foot touching the ground.",
+      "Observe weight shifting from one foot to another.",
+      "When you reach the end, pause and turn mindfully.",
+      "Continue walking back and forth along your path.",
+      "If mind wanders, stop and refocus on your feet."
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Visualization Meditation",
+    "image": "https://source.unsplash.com/800x600/?peaceful,landscape",
+    "description": "Use guided imagery to create peaceful mental scenes and promote deep relaxation.",
+    "benefits": ["Enhance creativity", "Reduce stress", "Improve focus", "Promote healing"],
+    "posture": "Sit or lie down comfortably with eyes closed.",
+    "duration": "15-25 minutes",
+    "difficulty": "Intermediate",
+    "steps": [
+      "Close your eyes and take several deep breaths.",
+      "Imagine a peaceful place (beach, forest, mountain).",
+      "Engage all your senses in this visualization.",
+      "See the colors, shapes, and lighting.",
+      "Hear the sounds (waves, birds, wind).",
+      "Feel the temperature and textures.",
+      "Smell the natural scents around you.",
+      "Spend time exploring this peaceful space.",
+      "When ready, slowly return to the present moment.",
+      "Open your eyes gradually and sit quietly."
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Mantra Meditation",
+    "image": "https://source.unsplash.com/800x600/?zen,spiritual",
+    "description": "Repeat a sacred word or phrase to focus the mind and transcend ordinary thinking.",
+    "benefits": ["Deepen concentration", "Reduce mental chatter", "Create inner peace", "Connect with spirituality"],
+    "posture": "Sit cross-legged or in chair with spine erect, hands in mudra position.",
+    "duration": "10-30 minutes",
+    "difficulty": "Beginner to Intermediate",
+    "steps": [
+      "Choose a mantra ('Om', 'Peace', 'So Hum', or personal phrase).",
+      "Sit comfortably and close your eyes.",
+      "Begin repeating your mantra silently.",
+      "Coordinate the mantra with your breath if helpful.",
+      "When thoughts arise, gently return to the mantra.",
+      "Don't force or strain - let it flow naturally.",
+      "If you lose the mantra, simply begin again.",
+      "Continue for your chosen duration.",
+      "End with a few moments of silence.",
+      "Gradually open your eyes and sit quietly."
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Mindful Eating Meditation",
+    "image": "https://source.unsplash.com/800x600/?fruit,mindful",
+    "description": "Practice mindfulness while eating to enhance awareness of taste, texture, and satisfaction.",
+    "benefits": ["Improve digestion", "Reduce overeating", "Enhance taste experience", "Develop gratitude"],
+    "posture": "Sit at table with good posture, food placed in front of you.",
+    "duration": "15-30 minutes",
+    "difficulty": "Beginner",
+    "steps": [
+      "Choose a simple food item (raisin, apple, piece of bread).",
+      "Hold the food and examine it visually.",
+      "Notice colors, shapes, textures, and imperfections.",
+      "Smell the food and notice any aromas.",
+      "Feel the weight and texture in your hand.",
+      "Take a small bite and pause before chewing.",
+      "Chew slowly, noticing flavors and textures.",
+      "Be aware of the urge to swallow.",
+      "Notice how the food changes as you chew.",
+      "Swallow mindfully and pause between bites.",
+      "Continue eating with full attention and gratitude."
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Zen Meditation (Zazen)",
+    "image": "https://source.unsplash.com/800x600/?zen,sitting",
+    "description": "Traditional Zen practice of 'just sitting' - observing thoughts without attachment.",
+    "benefits": ["Develop equanimity", "Reduce reactivity", "Increase awareness", "Cultivate presence"],
+    "posture": "Sit in lotus position or on cushion, spine straight, eyes slightly open gazing downward.",
+    "duration": "20-40 minutes",
+    "difficulty": "Advanced",
+    "steps": [
+      "Sit in traditional meditation posture.",
+      "Keep eyes slightly open, gazing at floor 3 feet ahead.",
+      "Rest hands in cosmic mudra (left hand on right).",
+      "Breathe naturally without controlling breath.",
+      "Simply observe whatever arises in awareness.",
+      "Don't follow thoughts or push them away.",
+      "When you notice thinking, just return to sitting.",
+      "Maintain alertness without effort or strain.",
+      "If drowsy, straighten posture and open eyes wider.",
+      "Continue 'just sitting' for entire session."
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Chakra Meditation",
+    "image": "https://source.unsplash.com/800x600/?chakra,energy",
+    "description": "Focus on the seven energy centers of the body to promote balance and healing.",
+    "benefits": ["Balance energy", "Enhance intuition", "Promote healing", "Increase vitality"],
+    "posture": "Sit comfortably with spine straight, hands resting on knees.",
+    "duration": "20-35 minutes",
+    "difficulty": "Intermediate",
+    "steps": [
+      "Begin with several deep breaths to center yourself.",
+      "Visualize red light at base of spine (Root Chakra).",
+      "Move to orange light below navel (Sacral Chakra).",
+      "Focus on yellow light at solar plexus (Solar Plexus Chakra).",
+      "Visualize green light at heart center (Heart Chakra).",
+      "See blue light at throat (Throat Chakra).",
+      "Focus on indigo light between eyebrows (Third Eye Chakra).",
+      "Visualize violet light at top of head (Crown Chakra).",
+      "See all chakras spinning and glowing simultaneously.",
+      "End by visualizing white light flowing through all centers."
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Sound Meditation",
+    "image": "https://source.unsplash.com/800x600/?singing,bowl",
+    "description": "Use bells, bowls, or nature sounds as focal points for meditation practice.",
+    "benefits": ["Enhance concentration", "Reduce stress", "Improve hearing", "Deepen meditation"],
+    "posture": "Sit comfortably with eyes closed, hands relaxed in lap.",
+    "duration": "15-25 minutes",
+    "difficulty": "Beginner",
+    "steps": [
+      "Choose your sound source (singing bowl, bell, nature sounds).",
+      "Sit comfortably and close your eyes.",
+      "Strike the bell or start your sound.",
+      "Focus completely on the sound as it emerges.",
+      "Follow the sound until it completely fades.",
+      "Notice the silence that follows.",
+      "Repeat with next sound when ready.",
+      "If using continuous sound, focus on different qualities.",
+      "Notice pitch, tone, vibration, and resonance.",
+      "Let the sound wash over and through you.",
+      "End with a few moments of complete silence."
+    ]
+  }
+]
